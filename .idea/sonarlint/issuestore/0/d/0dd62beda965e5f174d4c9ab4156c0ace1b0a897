@@ -1,0 +1,22 @@
+
+£
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(é¥Ğøÿÿÿÿ8ì·‰‹Ù1
+c	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8¿‹Š‹Ù1
+]	java:S125"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8ğ·‰‹Ù1
+I
+java:S1125&"'Remove the unnecessary boolean literal.(ÿ®‚–úÿÿÿÿ8ñ·‰‹Ù1
+I
+java:S11252"'Remove the unnecessary boolean literal.(ÿ®‚–úÿÿÿÿ8ò·‰‹Ù1
+I
+java:S1125C"'Remove the unnecessary boolean literal.(ÿ®‚–úÿÿÿÿ8ó·‰‹Ù1
+E	java:S108F")Either remove or fill this block of code.(”ı¾8ó·‰‹Ù1
+I
+java:S1125M"'Remove the unnecessary boolean literal.(ÿ®‚–úÿÿÿÿ8ô·‰‹Ù1
+I
+java:S1125Z"'Remove the unnecessary boolean literal.(ÿ®‚–úÿÿÿÿ8õ·‰‹Ù1
+D
+java:S1125e"'Remove the unnecessary boolean literal.(Ë™ÀÀ8õ·‰‹Ù1
+J	java:S108i")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8ö·‰‹Ù1
+D
+java:S1125k"'Remove the unnecessary boolean literal.(àÿÀ‚8ö·‰‹Ù1
+J	java:S108p")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8ö·‰‹Ù1
